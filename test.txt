@@ -1,0 +1,4 @@
+test dosyası yazdım.
+git add . yaptım
+git commit -m "test dosyası commit edildi"
+sonra : gitup a yuklenecek.
